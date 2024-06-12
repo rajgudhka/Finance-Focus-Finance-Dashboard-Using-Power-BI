@@ -1,4 +1,4 @@
-# Finance Dashboard Using Power-BI:-
+# Finance Focus - Finance Dashboard Using Power-BI:-
 
 
 
