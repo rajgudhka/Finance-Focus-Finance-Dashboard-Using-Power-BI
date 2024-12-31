@@ -18,7 +18,6 @@ Used different types of visualizations (Area chart, Donut Chart, Matrix, etc.)
 ![image](https://github.com/rajgudhka/Finance-Dashboard-Using-Power-BI/assets/167026479/ced957f6-9152-40df-ae3b-42f6bc85a790)
 
 
-![Finance Dashboard Analysis using Power BI](https://github.com/rajgudhka/Finance-Dashboard-Using-Power-BI/assets/167026479/4f55c612-f718-467b-ae3f-d016e26e9ec6)
 
 ### Dataset Link:-
 [Finance Dashboard Dataset.xlsx](https://github.com/user-attachments/files/15567053/Finance.Dashboard.Dataset.xlsx)
