@@ -1,6 +1,7 @@
 # Finance Focus - Finance Dashboard Using Power-BI:-
 
-
+##Dashboard link live:-
+https://app.powerbi.com/view?r=eyJrIjoiNzMxM2MzMzYtYTU5Ni00ZTRmLWEwYzUtOTdhNjQwMDYwNjc2IiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D
 
 
 ### Project Overview
