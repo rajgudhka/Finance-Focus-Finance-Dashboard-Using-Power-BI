@@ -20,7 +20,9 @@ Used different types of visualizations (Area chart, Donut Chart, Matrix, etc.)
 
 
 ### Dataset Link:-
-[Finance Dashboard Dataset.xlsx](https://github.com/user-attachments/files/15567053/Finance.Dashboard.Dataset.xlsx)
+
+[Finance.Dashboard.Dataset (2).xlsx](https://github.com/user-attachments/files/19678064/Finance.Dashboard.Dataset.2.xlsx)
+
 ### Tools//Languages used:-
 
 - Power BI
